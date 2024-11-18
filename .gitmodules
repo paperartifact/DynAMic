@@ -1,0 +1,3 @@
+[submodule "rIC3"]
+	path = rIC3
+	url = https://github.com/gipsyh/rIC3.git
